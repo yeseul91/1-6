@@ -6,3 +6,4 @@
 
 ###[시빌워예고편] (https://www.youtube.com/watch?v=SkrgOq_0CJA)
 
+![지구](https://github.com/yeseul91/1-6_2016/blob/gh-pages/images/earth.jpg)
