@@ -1,14 +1,11 @@
 ---
-# 1-6(2016)
+# 1-62016
 ---
 # 2016년도 1학년 6반 학급 홈페이지  
-### 비상연락망
+### 우리반 친구들 연락처
+### 우리반 시간표
+### 담임쌤 시간표
 ### 전달사항
-### 우리반시간표
 
-###[시빌워예고편] (https://www.youtube.com/watch?v=SkrgOq_0CJA)
 ![지구](https://raw.githubusercontent.com/yeseul91/1-6_2016/gh-pages/images/earth.jpg)
-##전예슬
 
-[피피티](https://goo.gl/lKKw7E)
-[담벼락](http://padlet.com/yastle109/6_trafficsign9999)
