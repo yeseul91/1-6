@@ -4,5 +4,5 @@
 ## 2016년도 1학년 6반 학급 홈페이지  
 ### 비상연락망
 
-###[비로소 세상의 모든 것이 연결되다, 사물 인터넷편] (https://www.youtube.com/watch?v=SkrgOq_0CJA)
+###[시빌워예고편] (https://www.youtube.com/watch?v=SkrgOq_0CJA)
 
