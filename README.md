@@ -6,5 +6,5 @@
 ### [담임쌤 시간표] (https://docs.google.com/spreadsheets/d/1NOfSCSOS1ps3ifVwG4yc1rxNgA6KE84QxEzRwMl6oS0/edit?usp=sharing)
 ### [전달사항] (https://docs.google.com/presentation/d/1afG17oLOSDgIypLIA2hq4IuRzzmWcMGSkFbmcHJjIBI/edit?usp=sharing)
 
-![지구](https://raw.githubusercontent.com/yeseul91/1-6_2016/gh-pages/images/earth.jpg)
+![우리반귀요미들](https://raw.githubusercontent.com/yeseul91/1-6/master/our%20class.jpg)
 
